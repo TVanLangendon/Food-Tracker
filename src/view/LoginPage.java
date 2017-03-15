@@ -35,7 +35,7 @@ public class LoginPage extends Application {
 	public void start(Stage primaryStage) {
 		try {
 			
-
+			System.out.println("test");
 			btSubmit = new Button("Submit");
 			nameField = new TextField();
 			passwordField = new TextField();
