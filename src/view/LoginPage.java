@@ -30,8 +30,6 @@ public class LoginPage extends Application {
 	
 	public LoginPage(){
 		
-		nameField = new TextField();
-		passwordField = new TextField();
 	}
 	@Override
 	public void start(Stage primaryStage) {
